@@ -56,7 +56,7 @@ In addition, these images depict detailed 3D plots of hand landmarks and full-bo
 
 ## Future Work
 
-### Model Changes
+### Model Enhancements
 
 The video below highlights future work should prioritize incorporating additional landmarks, particularly those adjacent to landmark 0 on the hand and around landmarks 11, 12, 13, and 14 on the body, to accurately obtain wrist and shoulder angles.
 
