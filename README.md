@@ -1,1 +1,1 @@
-# Hand-Tracking-and-Arm-Pose-Estimation
+# Hand Tracking and Arm Pose Estimation Using a Camera
