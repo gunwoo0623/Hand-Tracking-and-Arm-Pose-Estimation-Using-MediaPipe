@@ -52,7 +52,7 @@ The analysis reveals that tracking two hands simultaneously imposes a computatio
         </div>
 </div>
 
-These images depict detailed 3D plots of hand landmarks and full-body poses, illustrating the joint positions and limb orientations in three-dimensional space.
+In addition, these images depict detailed 3D plots of hand landmarks and full-body poses, illustrating the joint positions and limb orientations in three-dimensional space.
 
 ## Future Work
 
@@ -64,4 +64,6 @@ https://github.com/gunwoo0623/Hand-Tracking-and-Arm-Pose-Estimation-Using-MediaP
 
 ### Machine Learning Algorithm
 
-kNN MLP SVM
+Machine learning algorithms are essential for improving system accuracy by effectively distinguishing between different gestures. For instance, [Kazuhito00](https://github.com/Kazuhito00/hand-gesture-recognition-using-mediapipe) utilized Multilayer Perceptron (MLP) models for their ability to learn complex patterns, while [임다이](https://velog.io/@ekdl/Deep-Learning-8-Mediapipe-hands-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0%EC%8B%A4%EC%8A%B5) employed k-Nearest Neighbors (kNN) for its effective classification based on proximity.
+
+These algorithms enhance the system's capability to interpret hand and body movements accurately, supporting applications from interactive interfaces to advanced robotic controls.
